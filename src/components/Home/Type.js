@@ -9,6 +9,7 @@ function Type() {
           "Software Developer",
           "Freelancer",
           "MERN Stack Developer",
+          "Laravel Developer",
           "Open Source Contributor",
         ],
         autoStart: true,
