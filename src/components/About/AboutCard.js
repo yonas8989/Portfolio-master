@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at AiT Technology.
             <br />
-            I will be graduate from Addis Ababa Instituet of Technology by this Year.
+            I am  graduate from Addis Ababa Instituet of Technology back ground with computer engineering.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

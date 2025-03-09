@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Ride-sharing"
               description="A ride-Sharing wesite serves as seamless platform connection drives with passengers looking for convenient affordable transportation option the site freatures a sleek , intuitive desing with straignforward navigation, enabling users to quickly request rides or offer their driving services"
-              ghLink="https://github.com/yonas8989/ride-sharing"
+              ghLink="https://github.com/yonas8989/ride-master"
             />
           </Col>
 
@@ -35,9 +35,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Toursim Management Website"
-              description="A toursim website serves as a vibrang gateway to teh world's most captivatin destination offrent visotrs a visually engaging and user-frendly experience. it features high-quality images and videos of scenic lanscapes iconic landmarks, and cultural events"
-              ghLink="https://github.com/yonas8989/Bits-0f-C0de"
+              title="Pharmacy Management App"
+              description="A Pharmacy Management App is a digital solution designed to streamline pharmacy operations, including inventory management, prescription processing, sales tracking, and customer management. It enhances efficiency, reduces errors, and ensures seamless communication between pharmacists, suppliers, and customers."
+              ghLink="https://github.com/yonas8989/PharmacyMS-Laravel"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Sales Order Management System"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/yonas8989/Editor.io"
+              ghLink="https://github.com/yonas8989/orms"
             />
           </Col>
 
@@ -56,8 +56,8 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Clinic Mangement System"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/yonas8989/Plant_AI"
+              description="The Clinic Management System is a web-based application designed to streamline patient registration, appointment scheduling, medical records management, and billing. It enhances efficiency for healthcare providers by automating administrative tasks and improving patient care."
+              ghLink="https://github.com/yonas8989/Clinic-ms"
             />
           </Col>
 
@@ -66,8 +66,8 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Ecommerce Website"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/yonas8989/AI_For_Social_Good"
+              description="An eCommerce website is an online platform that allows businesses to sell products or services digitally, enabling customers to browse, add items to a cart, and make secure payments. It streamlines the buying and selling process with features like product catalogs, order management, and customer support."
+              ghLink="https://github.com/yonas8989/laravel-vue-ecommerce-main"
             />
           </Col>
 
@@ -75,10 +75,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Attendance Management System"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/yonas8989/Face_And_Emotion_Detection"
+              title="Project Management App"
+              description="A project management website is an online platform that helps teams plan, track, and collaborate on projects efficiently. It includes features like task assignment, progress tracking, file sharing, and team communication to enhance productivity and ensure project success."
+              ghLink="https://github.com/yonas8989/project-management-app"
             />
           </Col>
         </Row>

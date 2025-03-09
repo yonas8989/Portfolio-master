@@ -16,36 +16,45 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+            <h1>
+              WHY YOU SHOULD <span className="purple"> HIRE ME </span>
             </h1>
             <p className="home-about-body">
-              I am hard worker,  and I  belive in little increment in each step.
+              I am a dedicated and results-driven developer who believes in
+              continuous growth and improvement with every step.
               <br />
-              <br />I am specialize in  
+              <br />I specialize in
               <i>
-                <b className="purple"> react js, Laravel ,  Javascript. </b>
+                <b className="purple"> React.js, Laravel, and JavaScript, </b>
               </i>
+              building scalable and high-performance web applications.
               <br />
               <br />
-              My field of interest is building client based website using different
+              My expertise lies in developing client-focused solutions using
+              various
               <i>
-                <b className="purple">Web Technologies  </b>
+                <b className="purple">Web Technologies</b>
               </i>
+              , ensuring seamless user experiences.
               <br />
-              <br />
-              Whenever possible, I also used to  my passion for developing products
-              with <b className="purple">Node.js</b> and
+              <br />I am also passionate about backend development and love
+              creating robust products using
+              <b className="purple"> Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern JavaScript Libraries and Frameworks
                 </b>
               </i>
-              &nbsp; like
+              , including
               <i>
-                <b className="purple"> Next.js , angular ,vue</b>
+                <b className="purple"> Next.js, Angular, and Vue.js.</b>
               </i>
+              <br />
+              <br />
+              With a strong problem-solving mindset and hands-on experience, I
+              am confident in delivering efficient and scalable solutions that
+              drive business success.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
